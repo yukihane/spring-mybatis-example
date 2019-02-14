@@ -9,3 +9,6 @@ http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/
 
 雛形は[Spring Initializr](https://start.spring.io/)でmybatis,web,h2,lombok を選択。
 
+http://localhost:8080/city/CA で取得。
+
+[mapper xml の dtd](http://www.mybatis.org/mybatis-3/ja/getting-started.html)

@@ -12,3 +12,5 @@ http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/
 http://localhost:8080/city/CA で取得。
 
 [mapper xml の dtd](http://www.mybatis.org/mybatis-3/ja/getting-started.html)
+
+[Sample2](https://github.com/mybatis/spring-boot-starter/tree/master/mybatis-spring-boot-samples/mybatis-spring-boot-sample-xml) を写経してみる。

@@ -6,4 +6,7 @@
   <select id="findByState" resultType="com.github.yukihane.spring.mybatis.domain.City">
     select * from city where state = #{state}
   </select>
+  <select id="selectCityById" resultType="com.github.yukihane.spring.mybatis.domain.City">
+    select * from city where id = #{id}
+  </select>
 </mapper>
